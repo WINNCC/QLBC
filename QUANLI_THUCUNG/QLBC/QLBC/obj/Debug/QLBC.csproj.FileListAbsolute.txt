@@ -1,0 +1,37 @@
+E:\TranTrungChanh\QLBC\QLBC\bin\Debug\QLBC.exe.config
+E:\TranTrungChanh\QLBC\QLBC\bin\Debug\QLBC.exe
+E:\TranTrungChanh\QLBC\QLBC\bin\Debug\QLBC.pdb
+E:\TranTrungChanh\QLBC\QLBC\obj\Debug\QLBC.csprojResolveAssemblyReference.cache
+E:\TranTrungChanh\QLBC\QLBC\obj\Debug\QLBC.Form1.resources
+E:\TranTrungChanh\QLBC\QLBC\obj\Debug\QLBC.Properties.Resources.resources
+E:\TranTrungChanh\QLBC\QLBC\obj\Debug\QLBC.csproj.GenerateResource.Cache
+E:\TranTrungChanh\QLBC\QLBC\obj\Debug\QLBC.exe
+E:\TranTrungChanh\QLBC\QLBC\obj\Debug\QLBC.pdb
+E:\TranTrungChanh\QLBC\QLBC\bin\Debug\Bunifu_UI_v1.52.dll
+E:\TranTrungChanh\QLBC\QLBC\obj\Debug\QLBC.frmmain.resources
+E:\TranTrungChanh\QLBC\QLBC\obj\Debug\QLBC.exe.licenses
+E:\TranTrungChanh\QLBC\QLBC\obj\Debug\QLBC.frmcho.resources
+E:\TranTrungChanh\QLBC\QLBC\obj\Debug\QLBC.Form2.resources
+E:\TranTrungChanh\QLBC\QLBC\obj\Debug\QLBC.Form3.resources
+E:\bainop\QLBC (1)\QLBC\QLBC\bin\Debug\QLBC.exe.config
+E:\bainop\QLBC (1)\QLBC\QLBC\obj\Debug\QLBC.exe
+E:\bainop\QLBC (1)\QLBC\QLBC\obj\Debug\QLBC.pdb
+E:\bainop\QLBC (1)\QLBC\QLBC\obj\Debug\QLBC.csprojResolveAssemblyReference.cache
+E:\bainop\QLBC (1)\QLBC\QLBC\obj\Debug\QLBC.frmcv.resources
+E:\bainop\QLBC (1)\QLBC\QLBC\obj\Debug\QLBC.frmNV.resources
+E:\bainop\QLBC (1)\QLBC\QLBC\obj\Debug\QLBC.frmcho.resources
+E:\bainop\QLBC (1)\QLBC\QLBC\obj\Debug\QLBC.frmDDHKH.resources
+E:\bainop\QLBC (1)\QLBC\QLBC\obj\Debug\QLBC.frmDDHNCC.resources
+E:\bainop\QLBC (1)\QLBC\QLBC\obj\Debug\QLBC.frmHDBan.resources
+E:\bainop\QLBC (1)\QLBC\QLBC\obj\Debug\QLBC.frmKH.resources
+E:\bainop\QLBC (1)\QLBC\QLBC\obj\Debug\QLBC.frmPhieuNhap.resources
+E:\bainop\QLBC (1)\QLBC\QLBC\obj\Debug\QLBC.frmQLNCC.resources
+E:\bainop\QLBC (1)\QLBC\QLBC\obj\Debug\QLBC.frmThongKe.resources
+E:\bainop\QLBC (1)\QLBC\QLBC\obj\Debug\QLBC.Properties.Resources.resources
+E:\bainop\QLBC (1)\QLBC\QLBC\obj\Debug\QLBC.csproj.GenerateResource.Cache
+E:\bainop\QLBC (1)\QLBC\QLBC\obj\Debug\QLBC.exe.licenses
+E:\bainop\QLBC (1)\QLBC\QLBC\bin\Debug\QLBC.exe
+E:\bainop\QLBC (1)\QLBC\QLBC\bin\Debug\QLBC.pdb
+C:\Users\ASUS-PC\Documents\GitHub\QUANLI_THUCUNG\QLBC\QLBC\bin\Debug\QLBC.exe.config
+C:\Users\ASUS-PC\Documents\GitHub\QUANLI_THUCUNG\QLBC\QLBC\obj\Debug\QLBC.exe
+C:\Users\ASUS-PC\Documents\GitHub\QUANLI_THUCUNG\QLBC\QLBC\obj\Debug\QLBC.pdb
